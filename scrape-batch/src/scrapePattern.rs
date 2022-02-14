@@ -1,0 +1,4 @@
+enum HouseSalePattern {
+  FlatHouseSale
+  DetachedHouseSale,
+}
